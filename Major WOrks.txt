@@ -1,0 +1,12 @@
+
+
+CR -- (Shell & CNOOC) Migrated both Shell China and CNOOC to NEW GUI - Understood In/Out of NEW GUI engine and was able to solve any NEW GUI related issues.
+CR -- (Shell)  Added POSDlgProvider  - which helps POS code to work both with VPOS and Normal POS.
+CR -- (Shell) Added QR code on the Receipt - upon scanning this we can reprint Invoice.
+CR -- (China Trunk) Attendant CR Copy to China Trunk and Test - Lot of changes involved
+CR -- (China Trunk) Linkservers copy from Petro CHina to Shell China
+Billing and R&D -- Worked on VPOS modules - worked on resolving issues and is able to add any new module if required
+Billing (Shell/CNOOC/Petro China) -- Worked on the defects , was able to give quick solutions with quality.
+
+Contribution GitHub actions and Build script
+Taking care of Azure machines
